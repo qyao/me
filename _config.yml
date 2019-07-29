@@ -1,10 +1,10 @@
 # -----------------------------------------------------------------------------
 # Site settings
 # -----------------------------------------------------------------------------
-name: Mark Dean 
+name: Mark Dean
 email: mdean@bnl.gov
 description: > # this means to ignore newlines until "url:"
-  A simple, whitespace theme for academics. Based on [*folio](https://github.com/bogoli/-folio) design.
+  Resonant x-ray scattering on quantum materials at Brookhaven.
 footer_text: >
   Powered by <a href="http://jekyllrb.com/" target="_blank">Jekyll</a> with <a href="https://github.com/alshedivat/al-folio">al-folio</a> theme.
   Hosted by <a href="https://pages.github.com/" target="_blank">GitHub Pages</a>.
@@ -26,7 +26,7 @@ medium_username: # your Medium username
 quora_username: # your Quora username
 
 contact_note: >
-  You can even add a little note about which of these is the best way to reach you.
+  Email is usually the best way to reach me.
 
 google_analytics: UA-XXXXXXXXX # out your google-analytics code
 
@@ -91,7 +91,7 @@ plugins:
 # Jekyll-Scholar
 scholar:
 
-  last_name: Einstein
+  last_name: Dean
 
   style: apa
   locale: en

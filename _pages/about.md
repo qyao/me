@@ -1,23 +1,20 @@
 ---
 layout: about
 permalink: /
-title: <strong>Your</strong> Name
-description: <a href="">Affiliations</a>. Address. Contacts. Moto. Etc.
+title: Mark Dean
+description: X-Ray Scattering Group, Brookhaven National Laboratory
 
 profile:
   align: right
-  image: prof_pic.jpg
+  image: me.png
   address: >
-    <p>555 your office number</p>
-    <p>123 your address street</p>
-    <p>Your City, State 12345</p>
+    <p>Office 211</p>
+    <p>Interdisciplinary Science Building</p>
+    <p>734 Brookhaven Avenue</p>
+    <p>Upton, NY 11793</p>
 
 news: true
 social: true
 ---
 
-Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com){:target="\_blank"}. You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
-
-Put your address / P.O. box / other info right below your picture. You can also disable any these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
-
-Link to your social media connections, too. This theme is set up to use [Font Awesome icons](http://fortawesome.github.io/Font-Awesome/){:target="\_blank"} and [Academicons](https://jpswalsh.github.io/academicons/){:target="\_blank"}, like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
+Mark Dean is a Physicist in the [Condensed Matter Physics and Materials Science Department](https://www.bnl.gov/cmpmsd/) at [Brookhaven National Laboratory](https://www.bnl.gov). His research program is centered on resonant elastic and inelastic x-ray scattering studies of high temperature superconductors, strongly spin-orbit coupled materials, and complex oxide heterostructures. In 2014 he was a recipient of the [Department of Energy Early Career Award](http://ecrp.lbl.gov/). He serves on the [Editorial Board of Physical Review X](https://journals.aps.org/prx/staff) and was chair of the National Synchrotron Light Source II [Users' Executive Committee](http://nslsuec.org/). 
