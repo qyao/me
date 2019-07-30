@@ -2,12 +2,16 @@
 layout: page
 permalink: /publications/
 title: publications
-description: Publications by year
 ---
-
+Publications by year [2019](#2019), [2018](#2018)
+<!--
+Include pdfs
+http://sherpa.ac.uk/romeo/search.php
+-->
 {% capture _ %}{% increment pub_no %}{% endcapture %}
 
 <h3 class="year">{{2019}}</h3>
+<a name="2019"></a>
 
 {% increment pub_no %}\.  "Control of dopant crystallinity in electrochemically treated cuprate thin films", A. Frano, M. Bluschke, Z. Xu, B. Frandsen, Y.
 Lu, M. Yi, R. Marks, A. Mehta, V. Borzenets, D. Meyers, M. P. M.
@@ -15,27 +19,33 @@ Dean, F. Baiutti, J. Maier, G. Kim, G. Christiani, G. Logvenov, E.
 Benckiser, B. Keimer, and R. J. Birgeneau, [*Phys. Rev. Matt.* **3**,
 063803 (2019)](https://www.doi.org/10.1103/PhysRevMaterials.3.063803)
 
+
 {% increment pub_no %}\.  "Charge Density Wave Memory in a Cuprate Superconductor", X. M. Chen, C. Mazzoli, Y. Cao, V. Thampy, A. M. Barbour, W. Hu, M. Lu, T. Assefa, H. Miao, G. Fabbris, G. D. Gu, J. M. Tranquada, M. P. M. Dean, S. B. Wilkins, I. K. Robinson, [*Nature Comms.*, Article
-number: 1435 (2019)](https://doi.org/10.1038/s41467-019-09433-1) [![arXiv](../assets/img/arxiv.ico)](https://arxiv.org/abs/1807.09066)
+number: 1435 (2019)](https://doi.org/10.1038/s41467-019-09433-1)  
+[![arXiv](../assets/img/arxiv.ico)](https://arxiv.org/abs/1807.09066)
 
 
 {% increment pub_no %}\.  "EDRIXS: An open source toolkit for simulating spectra of resonant
 inelastic x-ray scattering", Y. L. Wang, G. Fabbris, M. P. M.
 Dean, G. Kotliar, [*Computer Physics Communications* **243**,
-151-165 (2019) (2019)](https://doi.org/10.1016/j.cpc.2019.04.018) [arXiv](https://arxiv.org/abs/1812.05735)
+151-165 (2019)](https://doi.org/10.1016/j.cpc.2019.04.018)
+[![arXiv](../assets/img/arxiv.ico)](https://arxiv.org/abs/1812.05735)
 
 {% increment pub_no %}\. "Magnetism in artificial Ruddlesden-Popper iridates leveraged by
 structural distortions", D. Meyers, Yue Cao, G. Fabbris, Neil J.
 Robinson, Lin Hao, C. Frederick, N. Traynor, J. Yang, Jiaqi Lin, M.
 H. Upton, D. Casa, Jong-Woo Kim, T. Gog, E. Karapetrova, Yongseong
 Choi, D. Haskel, P. J. Ryan, Lukas Horak, X. Liu, Jian Liu, and M.
-P. M. Dean, [*Scientific Reports* **9**, Article number: 4263 (2019)](https://doi.org/10.1038/s41598-019-39422-9) [arXiv](https://arxiv.org/abs/1707.08910)
+P. M. Dean, [*Scientific Reports* **9**, Article number: 4263 (2019)](https://doi.org/10.1038/s41598-019-39422-9) [![arXiv](../assets/img/arxiv.ico)](https://arxiv.org/abs/1707.08910)
+
+
 
 {% increment pub_no %}\.   "Direct detection of dimer orbitals in Ba$_5$AlIr$_2$O$_{11}$", Y. Wang, Ruitang Wang, Jungho Kim, M. H. Upton, D. Casa, T. Gog, G. Cao, G. Kotliar, M. P. M. Dean, X. Liu, [*Phys. Rev. Lett.* **122**, 106401 (2019)](https://doi.org/10.1103/PhysRevLett.122.106401) [arXiv](https://arxiv.org/abs/1810.05243)
 
 {% increment pub_no %}\.   "Novel spin-orbit coupling driven emergent states in iridate-based heterostructures", Lin Hao, D. Meyers, M. P. M. Dean, Jian Liu, [*J. Phys. Chem. Solids* 128 39-53 (2019)](https://doi.org/10.1016/j.jpcs.2017.11.018)
 
 <h3 class="year">{{2018}}</h3>
+<a name="2018"></a>
 
 {% increment pub_no %}\.   "Imaging antiferromagnetic antiphase domain boundaries using magnetic Bragg diffraction phase contrast", Min Gyu Kim, Hu Miao, Bin Gao, Sang-Wook Cheong, Claudio Mazzoli, Andi Barbour, Wen Hu, Stuart Wilkins, Ian Robinson, Mark Dean, and Valery Kiryukhin, [*Nat. Comm.* 9, Article number:5013 (2018)](https://doi.org/10.1038/s41467-018-07350-3)
 
