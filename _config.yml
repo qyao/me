@@ -33,8 +33,8 @@ google_analytics: UA-XXXXXXXXX # out your google-analytics code
 # -----------------------------------------------------------------------------
 # Blog
 # -----------------------------------------------------------------------------
-blog_name: al-folio
-blog_description: a simple whitespace theme for academics
+blog_name: Updates
+blog_description: what is going on with Mark's research
 
 # Pagination
 paginate: 4
@@ -47,7 +47,7 @@ text:
     older: 'Older'
 
 # Comments
-disqus_shortname: al-folio # put your disqus shortname
+disqus_shortname: al-folio_what? # put your disqus shortname
 
 # Optional features
 show_social_icons:  false
