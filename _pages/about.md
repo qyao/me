@@ -2,7 +2,7 @@
 layout: about
 permalink: /
 title: Mark Dean
-description: X-Ray Scattering Group, Brookhaven National Laboratory
+description: Physicist, Brookhaven National Laboratory
 
 profile:
   align: right
