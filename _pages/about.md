@@ -1,7 +1,7 @@
 ---
 layout: about
 permalink: /
-title: '''Mark Dean'''
+title: <strong>Mark Dean </strong>
 description: Physicist, Condensed Matter Physics & Materials Science, Brookhaven National Laboratory
 
 profile:
