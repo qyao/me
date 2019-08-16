@@ -33,26 +33,26 @@ contact_note: >
 # -----------------------------------------------------------------------------
 # Blog
 # -----------------------------------------------------------------------------
-blog_name: Updates
-blog_description: what is going on with Mark's research
+#_QY blog_name: Updates
+#_QY blog_description: what is going on with Mark's research
 
 # Pagination
-paginate: 4
-permalink: /blog/:year/:title/
-paginate_path: /blog/page:num/
+#_QY paginate: 4
+#_QY permalink: /blog/:year/:title/
+#_QY paginate_path: /blog/page:num/
 
-text:
-  pagination:
-    newer: 'Newer'
-    older: 'Older'
+#_QY text:
+#_QY   pagination:
+#_QY     newer: 'Newer'
+#_QY     older: 'Older'
 
 # Comments
-disqus_shortname: al-folio_what? # put your disqus shortname
+#_QY disqus_shortname: al-folio_what? # put your disqus shortname
 
 # Optional features
-show_social_icons:  false
-enable_anchorjs:    false
-enable_katex:       true
+#_QY show_social_icons:  false
+#_QY enable_anchorjs:    false
+#_QY enable_katex:       true
 
 # -----------------------------------------------------------------------------
 # Collections

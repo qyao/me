@@ -2,7 +2,7 @@
 layout: about
 permalink: /
 title: Mark Dean
-description: Physicist, Brookhaven National Laboratory
+description: Physicist, Condensed Matter Physics & Materials Science, Brookhaven National Laboratory
 
 profile:
   align: right
@@ -17,4 +17,4 @@ news: true
 social: true
 ---
 
-I am a Physicist in the [Condensed Matter Physics and Materials Science Department](https://www.bnl.gov/cmpmsd/) at [Brookhaven National Laboratory](https://www.bnl.gov). My research program focuses on resonant elastic and inelastic x-ray scattering studies of high temperature superconductors, strongly spin-orbit coupled materials, and complex oxide heterostructures. 
+I am leading inelastic x-ray scattering (RIXS) program in the [Condensed Matter Physics and Materials Science Department](https://www.bnl.gov/cmpmsd/) at [Brookhaven National Laboratory](https://www.bnl.gov). The research focuses on resonant elastic and inelastic x-ray scattering studies of high temperature superconductors, strongly spin-orbit coupled materials, and complex oxide heterostructures. 
