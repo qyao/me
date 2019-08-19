@@ -7,7 +7,7 @@ description: Physicist, Brookhaven National Laboratory
 profile:
   align: right
   image: me.png
-  #-QY address: >
+  address: >
     <p>Office 211</p>
     <p>Interdisciplinary Science Building</p>
     <p>734 Brookhaven Avenue</p>
