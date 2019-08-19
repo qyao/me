@@ -7,11 +7,11 @@ description: Physicist, Brookhaven National Laboratory
 profile:
   align: right
   image: me.png
-  address: >
-    <p>Office 211</p>
-    <p>Interdisciplinary Science Building</p>
-    <p>734 Brookhaven Avenue</p>
-    <p>Upton, NY 11793</p>
+  #-QY address: >
+    #-QY <p>Office 211</p>
+    #-QY <p>Interdisciplinary Science Building</p>
+    #-QY <p>734 Brookhaven Avenue</p>
+    #-QY <p>Upton, NY 11793</p>
 
 news: true
 social: true
