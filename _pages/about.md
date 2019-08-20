@@ -8,10 +8,10 @@ profile:
   align: right
   image: me.png
   #QY address
-	#QY <p>Office 211</p>
-    #QY <p>Interdisciplinary Science Building</p>
-    #QY <p>734 Brookhaven Avenue</p>
-    #QY <p>Upton, NY 11793</p>
+  #QY <p>Office 211</p>
+  #QY <p>Interdisciplinary Science Building</p>
+  #QY <p>734 Brookhaven Avenue</p>
+  #QY <p>Upton, NY 11793</p>
 
 news: true
 social: true
