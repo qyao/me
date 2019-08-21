@@ -63,9 +63,9 @@ collections:
       layout: post
     output: true
     permalink: /news/:path/
-  projects:
-    output: true
-    permalink: /projects/:path/
+  #_QY projects:
+    #_QY output: true
+    #_QY permalink: /projects/:path/
 
 news_limit: 5
 

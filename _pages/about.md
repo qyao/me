@@ -1,7 +1,7 @@
 ---
 layout: about
 permalink: /
-title: <strong>Mark Dean </strong>
+title: <strong>Mark</strong> Dean
 description: Physicist, Brookhaven National Laboratory
 
 profile:
