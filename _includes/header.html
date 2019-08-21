@@ -23,22 +23,29 @@
 
       <div class="trigger">
         <!-- About -->
-        <a class="page-link" href="{{ site.baseurl | prepend: site.url }}/">about</a>
-
-        <!-- Blog -->
-        <a class="page-link" href="{{ '/blog/' | prepend: site.baseurl | prepend: site.url }}">blog</a>
+        <a class="page-link" href="http://localhost:4000/me/">about</a>
 
         <!-- Pages -->
-        {% for page in site.pages %}
-          {% if page.title and page.url != "/" %}
-            <a class="page-link" href="{{ page.url | prepend: site.baseurl | prepend: site.url }}">{{ page.title }}</a>
-          {% endif %}
-        {% endfor %}
+            <a class="page-link" href="http://localhost:4000/me/activities/">activities</a>
+            
+            <a class="page-link" href="http://localhost:4000/me/grants/">grants</a>
+            
+            <a class="page-link" href="http://localhost:4000/me/publications/">publications</a>
+       
+            <a class="page-link" href="http://localhost:4000/me/people/">people</a>             
+          
+            <a class="page-link" href="http://localhost:4000/me/positions/">positions</a>
+          
+            <!-- <a class="page-link" href="http://localhost:4000/me/projects/">projects</a> -->
+        
 
-        <!-- CV link -->
-        <!-- <a class="page-link" href="{{ '/assets/pdf/CV.pdf' | prepend: site.baseurl | prepend: site.url }}">vitae</a> -->
-
-      </div>
+       <!-- CV link -->
+       <a class="page-link" href="http://localhost:4000/me/assets/pdf/CV.pdf">CV</a>
+       
+       <!-- Blog -->
+       <a class="page-link" href="http://localhost:4000/me/blog/">blog</a>
+             
+		</div>
     </nav>
 
   </div>
